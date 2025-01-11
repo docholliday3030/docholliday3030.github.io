@@ -4,7 +4,7 @@ Welcome to my first repository! This project marks the beginning of my journey i
 
 What I Hope To Achieve 
 
-The purpose of this repository is to help me achieve the following goals in my journey as a programmer:
+The purpose of this document is to help me achieve the following goals in my journey as a programmer:
 
 1. Master the Fundamentals
 	•	Goal: Strengthen my understanding of core programming concepts like algorithms, data structures, and object-oriented programming.
